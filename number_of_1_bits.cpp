@@ -34,8 +34,8 @@
   Follow up: If this function is called many times, how would you optimize it?
 */
 
-///Runtime: 0 ms
-///Memory Usage: 5.8 MB
+///Runtime: 0 ms        // 100%
+///Memory Usage: 5.8 MB // 95.97%
 
 class Solution {
 public:
